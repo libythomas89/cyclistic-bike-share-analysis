@@ -37,7 +37,7 @@ The analysis covers October 2025 through September 2026. The project uses histor
 
 ## Project Files
 
-- `cyclistic_analysis.ipynb` — Python analysis notebook
+- `cyclistic_case_study.ipynb` — Python analysis notebook
 - cyclistic_case_study.pdf — full case study report
 - Visualization PNG files — charts supporting the analysis
 
